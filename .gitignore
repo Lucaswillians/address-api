@@ -1,0 +1,35 @@
+# dependencies
+node_modules
+
+# build
+dist
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# environment
+.env
+
+# macOS
+.DS_Store
+
+# vscode
+.vscode
+
+# ts-node-dev
+.tmp
+
+# coverage
+coverage
+
+# Java
+target/
+build/
+.gradle/
+
+# IntelliJ
+.idea/
+*.iml
+out/
