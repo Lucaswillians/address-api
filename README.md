@@ -98,6 +98,9 @@ Rotas protegidas exigem:
 Authorization: Bearer TOKEN
 ```
 
+# Logs
+os logs são registrados no terminal da aplicação.
+
 # Rotas:
 
 👤 Usuários
