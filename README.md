@@ -40,7 +40,7 @@ Cada endereço pertence a um usuário.
 ## 1. Clonar o projeto
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Lucaswillians/address-api/
 ```
 
 ## 2. Instalar dependências
@@ -84,6 +84,7 @@ JWT_SECRET=jwttokenkeepsafe
 O banco PostgreSQL foi gerenciado utilizando o:
 
 - Beekeeper Studio
+- Caso queira local, é possivel acessar o localhost pelo pg:admin
 
 ---
 
